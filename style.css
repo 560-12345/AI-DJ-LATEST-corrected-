@@ -1,0 +1,15 @@
+body
+{
+    background-image: url("background.jpg") ;
+    background-size: 1290px;
+}
+
+canvas
+{
+    float: center;
+    border-color: rgb(255, 255, 255);
+    box-shadow: rgb(255, 255, 255);
+    border: 10px;
+    border-radius: 30px;
+    border-style: solid;
+}
